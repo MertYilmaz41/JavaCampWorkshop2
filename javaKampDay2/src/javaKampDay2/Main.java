@@ -16,7 +16,7 @@ public class Main {
 		instructor2.age = 20;
 		
 		Course course1 = new Course(1,"Java","Engin Demiroğ");
-		//lla
+		
 		Course course2 = new Course();
 		course2.id = 2;
 		course2.courseName = "C#";
